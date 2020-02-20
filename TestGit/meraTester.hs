@@ -1,0 +1,4 @@
+funktion ::
+funktion = 
+
+-- weeyf
